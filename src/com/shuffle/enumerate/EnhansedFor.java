@@ -18,6 +18,7 @@ public class EnhansedFor {
 		c.add("111");
 		c.add("222");
 		c.add("333");
+		c.add("333");
 		for(String a:c){
 			System.out.println(a);
 		}
